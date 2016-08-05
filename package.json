@@ -1,0 +1,27 @@
+{
+  "name": "elasticpush",
+  "version": "1.0.0",
+  "description": "Elasticpush Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elasticpush/elasticpush-nodejs.git"
+  },
+  "keywords": [
+    "elasticpush",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elasticpush/elasticpush-nodejs/issues"
+  },
+  "homepage": "https://github.com/Elasticpush/elasticpush-nodejs#readme",
+  "dependencies": {
+    "request": "^2.74.0",
+    "request-promise": "^4.1.0"
+  }
+}
