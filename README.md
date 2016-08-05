@@ -4,7 +4,7 @@
 
 `npm install elasticpush`
 
-# Usage
+## Usage
 
 ```javascript
 const Elasticpush = require('elasticpush');
